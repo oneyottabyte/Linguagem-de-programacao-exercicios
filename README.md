@@ -27,11 +27,11 @@ ter que comparar os dois RU usando ponteiros e imprimir na tela qual é o maior.
 
 Exercício 3:
 Faça um algoritmo em linguagem C com as seguintes funcionalidades:
- Receba um registro, com dois campos, como dados de entrada.
- O primeiro campo é um vetor que vai armazenar o nome do aluno.
- O segundo campo é uma variável do tipo inteiro que vai armazenar o RU do
+1. Receba um registro, com dois campos, como dados de entrada.
+2. O primeiro campo é um vetor que vai armazenar o nome do aluno.
+3. O segundo campo é uma variável do tipo inteiro que vai armazenar o RU do
 aluno.
- Imprime na tela os dados armazenados na estrutura.
+4. Imprime na tela os dados armazenados na estrutura.
 
 Exercício 4:
 Replique o exercício 3. Porém, agora, declare um ponteiro para a estrutura de dados
@@ -42,12 +42,12 @@ para buscar o conteúdo dos campos. Imprima na tela também o seu RU na tela.
 Exercício 5:
 Faça um algoritmo em linguagem C que contenha dois números inteiros digitados na
 tela pelo usuário:
-a. O primeiro número marca um início;
-b. O segundo número marca um fim;
+1. O primeiro número marca um início;
+2. O segundo número marca um fim;
 O algoritmo vai contar quantos números existem entre o início (primeira entrada) e
 o fim (segunda entrada). A impressão na tela do usuário deve ser realizada de duas formas:
-a. Iterativa;
-b. Recursiva;
+1. Iterativa;
+2. Recursiva;
 Ao colocar no seu relatório uma imagem do seu código funcionando, coloque ele
 rodando utilizando como valor de inicio os 2 últimos valores do seu RU e valor final
-o número 99
+o número 99.
